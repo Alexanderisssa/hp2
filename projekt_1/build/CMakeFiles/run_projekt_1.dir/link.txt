@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/run_projekt_1.dir/home/alexeissa/projekt_1/src/main.c.o CMakeFiles/run_projekt_1.dir/home/alexeissa/projekt_1/src/gpiod_utils.c.o -o run_projekt_1  -lgpiod -lpthread 

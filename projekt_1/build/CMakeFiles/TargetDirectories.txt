@@ -1,0 +1,3 @@
+/home/alexeissa/projekt_1/build/CMakeFiles/run_projekt_1.dir
+/home/alexeissa/projekt_1/build/CMakeFiles/edit_cache.dir
+/home/alexeissa/projekt_1/build/CMakeFiles/rebuild_cache.dir

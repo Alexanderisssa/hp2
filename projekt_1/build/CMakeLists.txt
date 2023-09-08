@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.20)
+project(projekt_1)
+include_directories(../inc)
+add_executable(run_projekt_1 ../src/main.c ../src/gpiod_utils.c)
+target_compile_options(run_projekt_1 PRIVATE -Wall -Werror)
+target_link_libraries(run_projekt_1 gpiod pthread)
+set_target_properties(run_projekt_1 PROPERTIES RUNTIME_OUTPUT_DIRECOTRY ../)
